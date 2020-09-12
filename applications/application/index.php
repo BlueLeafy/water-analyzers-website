@@ -4,9 +4,9 @@ include '../../includes/bootstrap.php';
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-<link rel="canonical" href="water-analyzers-website"/>
-<link rel="alternate" href="water-analyzers-website" hreflang="en" />
-<link rel="alternate" href="water-analyzers-website" hreflang="en-GB" />
+<link rel="canonical" href="https://blueleafy.github.io/water-analyzers-website/"/>
+<!-- <link rel="alternate" href="https://blueleafy.github.io/water-analyzers-website/" hreflang="en" />
+<link rel="alternate" href="https://blueleafy.github.io/water-analyzers-website/" hreflang="en-GB" /> -->
 <title>Application</title>
 <meta name="description" content="Application" />
 <?php

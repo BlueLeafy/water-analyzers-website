@@ -4,9 +4,6 @@ include '../includes/bootstrap.php';
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<link rel="canonical" href="water-analyzers-website"/>
-<link rel="alternate" href="water-analyzers-website" hreflang="en"/>
-<link rel="alternate" href="water-analyzers-website" hreflang="en-GB"/>
 <title>Documentation: datasheets, manuals, presentations</title>
 <meta name="description" content="This page contains a list of documentation available" />
 <?php

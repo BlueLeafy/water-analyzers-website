@@ -4,9 +4,6 @@ include '../includes/bootstrap.php';
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<link rel="canonical" href="water-analyzers-website"/>
-<link rel="alternate" href="water-analyzers-website" hreflang="en"/>
-<link rel="alternate" href="water-analyzers-website" hreflang="en-GB"/>
 <title>Case Studies Analyzers</title>
 <meta name="description" content="Case Studies Analyzers" />
 <?php
