@@ -14,7 +14,7 @@
   padding: 0;
 }
 body {
-  background-image: url(https://www.multisensorsystems.com/img/utilities/logo-background.webp), url(https://www.multisensorsystems.com/img/utilities/logo-background.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/utilities/logo-background.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/utilities/logo-background.jpg");
   background-repeat: repeat;
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
@@ -319,7 +319,7 @@ article p {
 }
 .home-header {
   background: no-repeat center center/cover;
-  background-image: url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.webp), url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.jpg");
   background-attachment: fixed;
 }
 /* || Carosel */
@@ -586,22 +586,22 @@ article p {
   transition: all 1s linear;
 }
 .home-2 ul li:nth-of-type(1) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-1.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-1.jpg");
 }
 .home-2 ul li:nth-of-type(2) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-2.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-2.jpg");
 }
 .home-2 ul li:nth-of-type(3) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-3.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-3.jpg");
 }
 .home-2 ul li:nth-of-type(4) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-4.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-4.jpg");
 }
 .home-2 ul li:nth-of-type(5) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-5.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-5.jpg");
 }
 .home-2 ul li:nth-of-type(6) {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/btn-home-6.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/btn-home-6.jpg");
 }
 .home-2 ul li a {
   color: var(--fourth-color);
@@ -702,7 +702,7 @@ article p {
   background-color: #f5f5f5;
 }
 .home-5 .flex-row:nth-of-type(1) .box-1 {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/m3500-monitor.webp), url(https://www.multisensorsystems.com/img/homepage/m3500-monitor.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/m3500-monitor.webp"), url"(https://blueleafy.github.io/water-analyzers-website/img/homepage/m3500-monitor.jpg");
 }
 .home-5 .flex-row .box-2 {
   width: 640px;
@@ -711,7 +711,7 @@ article p {
   flex-direction: row-reverse;
 }
 .home-5 .flex-row:nth-child(2) .box-1 {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/ms1200-monitor.webp), url(https://www.multisensorsystems.com/img/homepage/ms1200-monitor.jpg);
+  background-image: url"(https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.jpg");
 }
 .home-5 .btn {
   display: inline-block;
@@ -738,7 +738,7 @@ article p {
   font-weight: 400;
 }
 .home-7 .box-1 {
-  background-image: url(https://www.multisensorsystems.com/img/homepage/documentation.jpg), url(https://www.multisensorsystems.com/img/homepage/documentation.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/documentation.jpg"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/documentation.webp");
   position: relative;
   width: 55%;
   z-index: -1;
@@ -776,7 +776,7 @@ article p {
   height: auto;
 }
 .products-header {
-  background: url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.webp), url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.jpg);
+  background: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.jpg");
   background-attachment: fixed;
 }
 .products-tagline {
@@ -817,16 +817,16 @@ article p {
 }
 #gird-products > :first-child,
 #gird-products > :nth-child(5) {
-  background-image: url(https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-640x560.jpf), url(https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-640x560.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-640x560.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-640x560.webp");
 }
 #gird-products > :nth-child(2) {
-  background-image: url(https://www.multisensorsystems.com/img/products/oil-in-water-analyzer-640x560.jpf), url(https://www.multisensorsystems.com/img/products/oil-in-water-analyzer-640x560.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/oil-in-water-analyzer-640x560.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/oil-in-water-analyzer-640x560.webp");
 }
 #gird-products > :nth-child(3) {
-  background-image: url(https://www.multisensorsystems.com/img/products/ms2000-thm-analyzer-640x560.jpf), url(https://www.multisensorsystems.com/img/products/ms2000-thm-analyzer-640x560.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms2000-thm-analyzer-640x560.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms2000-thm-analyzer-640x560.webp");
 }
 #gird-products > :nth-child(4) {
-  background-image: url(https://www.multisensorsystems.com/img/products/ms3500-ammonia-analyzer-wastewater-640x560.jpf), url(https://www.multisensorsystems.com/img/products/ms3500-ammonia-analyzer-wastewater-640x560.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms3500-ammonia-analyzer-wastewater-640x560.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms3500-ammonia-analyzer-wastewater-640x560.webp");
 }
 #gird-products > :hover {
   box-shadow: 0 0 6px 3px #bfbfbf;
@@ -844,7 +844,7 @@ article p {
 /* || Landing page */
 .landing-page-header {
   background: no-repeat center center/cover;
-  background-image: url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.webp), url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.jpg);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.jpg");
   background-attachment: fixed;
 }
 .landing-page-2 {
@@ -876,7 +876,7 @@ article p {
   background-color: #f5f5f5;
 }
 .landing-page-5 .flex-row:nth-of-type(1) .box-1 {
-  background-image: url("https://www.multisensorsystems.com/img/products/ms1900-tank.jpf"), url("https://www.multisensorsystems.com/img/products/ms1900-tank.webp");
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1900-tank.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1900-tank.webp");
 }
 .landing-page-5 .flex-row .box-2 {
   width: 640px;
@@ -885,10 +885,10 @@ article p {
   flex-direction: row-reverse;
 }
 .landing-page-5 .flex-row:nth-child(2) .box-1 {
-  background-image: url(https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-516x280.jpg), url(https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-516x280.webp);
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-516x280.jpg"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-516x280.webp");
 }
 .landing-page-5 .flex-row:nth-child(3) .box-1 {
-  background-image: url("https://www.multisensorsystems.com/img/products/ms1900-on-panel.jpf"), url("https://www.multisensorsystems.com/img/products/ms1900-on-panel.webp");
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1900-on-panel.jpf"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1900-on-panel.webp");
 }
 .landing-page-5 .btn {
   display: inline-block;
@@ -910,7 +910,7 @@ article p {
   color: white;
 }
 .landing-page-7 .box-1 {
-  background-image: url("https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-1155x627.jpg"), url("https://www.multisensorsystems.com/img/products/ms1800-voc-gas-monitor-1155x627.webp");
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-1155x627.jpg"), url("https://blueleafy.github.io/water-analyzers-website/img/products/ms1800-voc-gas-monitor-1155x627.webp");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -986,7 +986,7 @@ article p {
   max-width: var(--max-width);
 }
 .product-header {
-  background: url(https://www.multisensorsystems.com/img/homepage/wastewater-treatment-plant.jpg);
+  background: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/wastewater-treatment-plant.jpg");
   background-attachment: fixed;
 }
 .product-gradient {
@@ -1255,7 +1255,7 @@ article p {
   height: 100%;
 }
 .about-header {
-  background: url(https://www.multisensorsystems.com/img/wastewater-treatment-plant-flipped.webp), url(https://www.multisensorsystems.com/img/wastewater-treatment-plant-flipped.jpg);
+  background: url("https://blueleafy.github.io/water-analyzers-website/img/wastewater-treatment-plant-flipped.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/wastewater-treatment-plant-flipped.jpg");
   background-position: center;
   background-attachment: fixed;
 }
