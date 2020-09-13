@@ -702,7 +702,7 @@ article p {
   background-color: #f5f5f5;
 }
 .home-5 .flex-row:nth-of-type(1) .box-1 {
-  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/m3500-monitor.webp"), url"(https://blueleafy.github.io/water-analyzers-website/img/homepage/m3500-monitor.jpg");
+  background-image: url("../img/homepage/m3500-monitor.webp"), url("../img/homepage/m3500-monitor.jpg");
 }
 .home-5 .flex-row .box-2 {
   width: 640px;
@@ -711,7 +711,7 @@ article p {
   flex-direction: row-reverse;
 }
 .home-5 .flex-row:nth-child(2) .box-1 {
-  background-image: url"(https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.jpg");
+  background-image: url("https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.webp"), url("https://blueleafy.github.io/water-analyzers-website/img/homepage/ms1200-monitor.jpg");
 }
 .home-5 .btn {
   display: inline-block;
